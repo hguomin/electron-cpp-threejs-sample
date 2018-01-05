@@ -1,4 +1,5 @@
-# electron-cpp-threejs-sample
+# Electron-cpp-threejs-sample
+An example code that demos the electron app and calling C++ node addons
 
 # Build && Run
 
