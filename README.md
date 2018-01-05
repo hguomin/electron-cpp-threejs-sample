@@ -12,4 +12,4 @@ An example code that demos the electron app and calling C++ node addons
 
 # Reference
 https://nodejs.org/docs/latest/api/addons.html  
-https://nodejs.org/docs/latest/api/addons.html
+https://electronjs.org/docs/tutorial/quick-start
